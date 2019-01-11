@@ -1,0 +1,76 @@
+Predição em Tenis
+
+https://www.researchgate.net/publication/228614352_Combining_player_statistics_to_predict_outcomes_of_tennis_matches
+
+https://content.sciendo.com/view/journals/hukin/21/1/article-p15.xml
+
+https://www.tandfonline.com/doi/abs/10.1080/24748668.2010.11868509
+
+
+https://www.tandfonline.com/doi/abs/10.1080/24748668.2015.11868838 -> dicute quebra de saque, loss de pontos etc.
+https://www.tandfonline.com/doi/abs/10.1080/24748668.2002.11868262 -> break points para ganho do jogo
+https://www.tandfonline.com/doi/abs/10.1080/24748668.2008.11868449 -> 1º/2º Serviço relacionado ao rally
+https://www.tandfonline.com/doi/abs/10.1080/24748668.2010.11868509 -> estatistica x ranking
+https://www.tandfonline.com/doi/abs/10.1080/24748668.2012.11868591 -> break points x non break poins
+https://www.tandfonline.com/doi/abs/10.1080/24748668.2009.11868468 -> is there momentum in tennis elite?
+https://www.tandfonline.com/doi/full/10.1080/24748668.2017.1399325 -> experiencia conta em grand slam?
+https://www.tandfonline.com/doi/abs/10.1080/24748668.2011.11868549 -> ranking x performance
+https://www.sciencedirect.com/science/article/pii/S0169207009002076 -> ranking predição
+https://link.springer.com/article/10.1057/ori.2011.7 -> predição de jogos em progresso uninco matches + sets + games
+
+
+
+
+http://strategicgames.com.au/PhD.pdf -> modelo matemático para predição no tenis (IMPORTANTE) tese de doutorado
+https://academic.oup.com/imaman/article-abstract/16/2/113/704903 -> estatistica, apostas (importante - muito citado)
+https://www.tandfonline.com/doi/abs/10.1080/02701367.1986.10605384 -> probabilidade de ganhar levando em conta estado do jogo
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-842X.1983.tb01222.x -> probabilidade de ganhar levando em consideração march, set, game
+http://strategicgames.com.au/8mcs.pdf -> modelo de predição
+https://www.semanticscholar.org/paper/Forecasting-the-winner-of-a-tennis-match-Klaassen-Magnus/114a2c60da136f80c304f4ed93fa7c796cc76f28 -> modelo de predição
+
+https://www.semanticscholar.org/paper/Using-Soft-Computing-Techniques-for-Prediction-of-Fernandes/21833edd40be2e601cc83b2edab8c421e50abebc -> rede neural e fuzzy para predição
+https://www.semanticscholar.org/paper/Professional-tennis-%3A-quantitative-models-and-Spanias/15aa08121d06d30d4d6ab8901a5d345d845e9ecc -> predição
+https://www.semanticscholar.org/paper/Probability-of-Winning-at-Tennis-I-.-Theory-and-Newton-Keller/e8708ca24b8f67476b3284ec22ccb689dc6229be -> probabilidade de ganhar
+
+
+https://www.semanticscholar.org/paper/Using-Microsoft-Excel-to-Model-a-Tennis-Match-Clarke/6e7ca0997f250326cd63cb85cbd77503ee62bbd5 -> modelagem de uma partida de tennis no excel
+
+https://www.semanticscholar.org/paper/Tennis-Winner-Prediction-based-on-Time-Series-with-Somboonphokkaphan-Phimoltares/fd3dc6d565e6a0e90d3df5b016df214dca39d9ba -> back propagation learning algorithm
+https://www.semanticscholar.org/paper/MEng-Computing-%E2%80%93-Final-year-project-Machine-for-the/d533a150aeb9b766b733b4992794a7e67356a5a3 - MACHINE LEARNING PARA PREDIÇÃO DE TENIS
+https://www.semanticscholar.org/paper/Machine-Learning-for-Professional-Tennis-Match-and-Cornman-Spellman/a8d31de35f34ed4bcd64ae62ac8392fdd87535c0 -> predição com machine learning
+https://www.semanticscholar.org/paper/Winning-matches-in-Grand-Slam-men's-singles%3A-an-of-Ma-Liu/0bc2b66bd6691786fdad5c4a2ac8347ed0b3157d -> variáveis para predição
+
+https://www.semanticscholar.org/paper/The-use-of-data-mining-for-basketball-matches-Miljkovic-Gajic/c841256b95353420d1f778dff9036acea11c900b -> data mining para prever  NBA
+
+https://www.semanticscholar.org/paper/Data-Mining-in-Sports%3A-A-Systematic-Review-Bonidia-Brancher/f36d529cb340b4d748b6867e7a93ea02f832386f - sports data mining
+https://www.semanticscholar.org/paper/A-Review-of-Data-Mining-Techniques-for-Result-in-Haghighat-Rastegari/37767ab1f559dda7a8d239aec0af1c9485d3d426 - sports data mining
+https://www.semanticscholar.org/paper/A-machine-learning-framework-for-sport-result-Bunker-Thabtah/08211e51290e1ec1c508745feb9d97dc48814581 - ML em esporte
+https://www.semanticscholar.org/paper/Artificial-Intelligence-in-Sports-Prediction-McCabe-Trevathan/2a610228cfb07399fe0f8893eddde12602f0606e - inteligencia artificial em predição
+
+https://www.semanticscholar.org/paper/Inferring-the-score-of-a-tennis-match-from-in-play-Dumitrescu-Huang/7d34925d48e68727c1eae108161d607cff43400f - bet em tennis
+	
+https://www.semanticscholar.org/paper/The-importance-of-a-match-in-a-tournament-Scarf-Shi/9f5e546c953aa3541b4cefbe6c88e521d243fb4e - importancia da partida
+
+https://www.researchgate.net/publication/4744107_Are_Points_in_Tennis_Independent_and_Identically_Distributed_Evidence_From_a_Dynamic_Binary_Panel_Data_Model - pontos são independentes?
+
+
+
+
+====================
+Football
+
+https://www.semanticscholar.org/paper/Predicting-football-scores-using-machine-learning-Hucaljuk-Rakipovic/46d4987d54f9e95659b24770cf28ce4420c60e74
+https://www.semanticscholar.org/paper/Predicting-sports-events-from-past-results-Towards-Buursma/5e22c4362df3b0accbe04517c41848a2b229efd1
+https://www.semanticscholar.org/paper/Introduction-to-Artificial-Neural-Networks-and-of-%3A-Tavares/7968e39aaddc992e1cd625ba96daef45d99e7c7a
+https://www.semanticscholar.org/paper/A-network-driven-methodology-for-sports-ranking-and-Xia-Jain/be8f24f6fb21ae9700bf2e676941c248ddfe86ab
+https://www.semanticscholar.org/paper/Football-Match-Prediction-Using-Players-Attributes-Jung-Lacko/2f975d3984e524a84692a7f2619022ede790433e
+
+
+
+
+
+
+
+
+
+
