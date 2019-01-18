@@ -1,10 +1,10 @@
 Predição em Tenis
 
-https://www.researchgate.net/publication/228614352_Combining_player_statistics_to_predict_outcomes_of_tennis_matches
+[F] https://www.researchgate.net/publication/228614352_Combining_player_statistics_to_predict_outcomes_of_tennis_matches -> estatisticas p predição
 
-https://content.sciendo.com/view/journals/hukin/21/1/article-p15.xml
+[F] https://content.sciendo.com/view/journals/hukin/21/1/article-p15.xml   -> modelo de armazenamento
 
-https://www.tandfonline.com/doi/abs/10.1080/24748668.2010.11868509
+https://www.tandfonline.com/doi/abs/10.1080/24748668.2010.11868509 -> relação estatistica x ranking
 
 
 https://www.tandfonline.com/doi/abs/10.1080/24748668.2015.11868838 -> dicute quebra de saque, loss de pontos etc.
@@ -21,7 +21,7 @@ https://link.springer.com/article/10.1057/ori.2011.7 -> predição de jogos em pro
 
 
 
-http://strategicgames.com.au/PhD.pdf -> modelo matemático para predição no tenis (IMPORTANTE) tese de doutorado
+[F] http://strategicgames.com.au/PhD.pdf -> modelo matemático para predição no tenis (IMPORTANTE) tese de doutorado
 https://academic.oup.com/imaman/article-abstract/16/2/113/704903 -> estatistica, apostas (importante - muito citado)
 https://www.tandfonline.com/doi/abs/10.1080/02701367.1986.10605384 -> probabilidade de ganhar levando em conta estado do jogo
 https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-842X.1983.tb01222.x -> probabilidade de ganhar levando em consideração march, set, game
@@ -33,11 +33,11 @@ https://www.semanticscholar.org/paper/Professional-tennis-%3A-quantitative-model
 https://www.semanticscholar.org/paper/Probability-of-Winning-at-Tennis-I-.-Theory-and-Newton-Keller/e8708ca24b8f67476b3284ec22ccb689dc6229be -> probabilidade de ganhar
 
 
-https://www.semanticscholar.org/paper/Using-Microsoft-Excel-to-Model-a-Tennis-Match-Clarke/6e7ca0997f250326cd63cb85cbd77503ee62bbd5 -> modelagem de uma partida de tennis no excel
+[F] https://www.semanticscholar.org/paper/Using-Microsoft-Excel-to-Model-a-Tennis-Match-Clarke/6e7ca0997f250326cd63cb85cbd77503ee62bbd5 -> modelagem de uma partida de tennis no excel
 
 https://www.semanticscholar.org/paper/Tennis-Winner-Prediction-based-on-Time-Series-with-Somboonphokkaphan-Phimoltares/fd3dc6d565e6a0e90d3df5b016df214dca39d9ba -> back propagation learning algorithm
-https://www.semanticscholar.org/paper/MEng-Computing-%E2%80%93-Final-year-project-Machine-for-the/d533a150aeb9b766b733b4992794a7e67356a5a3 - MACHINE LEARNING PARA PREDIÇÃO DE TENIS
-https://www.semanticscholar.org/paper/Machine-Learning-for-Professional-Tennis-Match-and-Cornman-Spellman/a8d31de35f34ed4bcd64ae62ac8392fdd87535c0 -> predição com machine learning
+[F] https://www.semanticscholar.org/paper/MEng-Computing-%E2%80%93-Final-year-project-Machine-for-the/d533a150aeb9b766b733b4992794a7e67356a5a3 - MACHINE LEARNING PARA PREDIÇÃO DE TENIS
+[F] https://www.semanticscholar.org/paper/Machine-Learning-for-Professional-Tennis-Match-and-Cornman-Spellman/a8d31de35f34ed4bcd64ae62ac8392fdd87535c0 -> predição com machine learning
 https://www.semanticscholar.org/paper/Winning-matches-in-Grand-Slam-men's-singles%3A-an-of-Ma-Liu/0bc2b66bd6691786fdad5c4a2ac8347ed0b3157d -> variáveis para predição
 
 https://www.semanticscholar.org/paper/The-use-of-data-mining-for-basketball-matches-Miljkovic-Gajic/c841256b95353420d1f778dff9036acea11c900b -> data mining para prever  NBA
