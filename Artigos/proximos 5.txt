@@ -1,0 +1,11 @@
+http://strategicgames.com.au/PhD.pdf -> modelo matemático para predição no tenis
+
+https://www.researchgate.net/publication/228614352_Combining_player_statistics_to_predict_outcomes_of_tennis_matches 
+
+https://www.semanticscholar.org/paper/MEng-Computing-%E2%80%93-Final-year-project-Machine-for-the/d533a150aeb9b766b733b4992794a7e67356a5a3 - MACHINE LEARNING PARA PREDIÇÃO DE TENIS
+
+https://www.semanticscholar.org/paper/Machine-Learning-for-Professional-Tennis-Match-and-Cornman-Spellman/a8d31de35f34ed4bcd64ae62ac8392fdd87535c0 -> predição com machine learning
+
+https://content.sciendo.com/view/journals/hukin/21/1/article-p15.xml   -> modelo de armazenamento
+
+https://www.semanticscholar.org/paper/Using-Microsoft-Excel-to-Model-a-Tennis-Match-Clarke/6e7ca0997f250326cd63cb85cbd77503ee62bbd5 -> modelagem de uma partida de tennis no excel
