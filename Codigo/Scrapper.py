@@ -20,7 +20,7 @@ def tournaments(year):
     year_url = "http://www.atpworldtour.com/en/scores/results-archive?year=" + year
     soup = BeautifulSoup(requests.get(year_url).content, 'lxml')
     trs = soup.findAll('tr', class_='tourney-result')
-    tourns = []    
+    tourns = []        
     #foreach tournaments
     for tr in trs:
         title = tournaments_info_to_str(tr.find(class_='tourney-title').contents[0])
@@ -40,6 +40,7 @@ def tournaments(year):
     return tourns
 
 tournaments_data = []
+tournaments_data += [['title', 'location', 'date', 'players', 'surface', 'court_type', 'prize', 'winner']]
 for y in range(int(start_year), int(end_year) + 1):
     year = str(y)  
     print('Getting '+year+' data')   
@@ -47,5 +48,5 @@ for y in range(int(start_year), int(end_year) + 1):
 data = np.array(tournaments_data)
 filename = 'tournaments_' + start_year + '-' + end_year
 print('Writing Csv')
-np.savetxt(filename+".csv", tournaments_data, delimiter=",", fmt='%s')
+np.savetxt(filename+".csv", tournaments_data, delimiter=";", fmt='%s', encoding='utf-8')
 print('Csv writed')
