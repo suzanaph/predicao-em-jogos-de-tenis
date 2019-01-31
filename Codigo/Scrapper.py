@@ -2,6 +2,9 @@ from lxml import html
 from bs4 import BeautifulSoup 
 import requests
 import numpy as np
+from selenium import webdriver
+
+
 
 start_year = '2000'
 end_year = '2018'
@@ -39,14 +42,42 @@ def tournaments(year):
         tourns.append([title, location, date, qtd, surface, typeCourt, prize, winner])
     return tourns
 
-tournaments_data = []
-tournaments_data += [['title', 'location', 'date', 'players', 'surface', 'court_type', 'prize', 'winner']]
-for y in range(int(start_year), int(end_year) + 1):
-    year = str(y)  
-    print('Getting '+year+' data')   
-    tournaments_data += tournaments(year)
-data = np.array(tournaments_data)
-filename = 'tournaments_' + start_year + '-' + end_year
-print('Writing Csv')
-np.savetxt(filename+".csv", tournaments_data, delimiter=";", fmt='%s', encoding='utf-8')
-print('Csv writed')
+
+def getTournamentsData():
+    tournaments_data = []
+    tournaments_data += [['title', 'location', 'date', 'players', 'surface', 'court_type', 'prize', 'winner']]
+    for y in range(int(start_year), int(end_year) + 1):
+        year = str(y)  
+        print('Getting '+year+' data')   
+        tournaments_data += tournaments(year)
+    filename = 'tournaments_' + start_year + '-' + end_year
+    print('Writing Csv')
+    np.savetxt(filename+".csv", tournaments_data, delimiter=";", fmt='%s', encoding='utf-8')
+    print('Csv writed')
+
+def player():
+    driver = webdriver.Chrome()
+    driver.get('https://www.ultimatetennisstatistics.com/rankingsTable')
+    ranking = 0
+    players = []
+    while ranking <= 50:           
+        soup = BeautifulSoup(driver.page_source, 'lxml')
+        table = soup.find(id='rankingsTable')
+        trs = table.find('tbody').findAll('tr')
+        for tr in trs:
+            player = tr.findAll('td')[3].find('a').contents[0]
+            players += [player]
+            ranking = int(tr.findAll('td')[0].contents[0].strip())
+            if ranking > 50:
+                break
+        #CLICAR NA PAGINACAO
+        button_next = driver.find_element_by_class_name('next').find_element_by_tag_name('a')
+        button_next.click()
+    print(players)
+
+
+    
+def getPlayersData():
+    return
+
+player()
