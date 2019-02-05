@@ -5,8 +5,7 @@ import numpy as np
 from selenium import webdriver
 import time
 import datetime
-
-
+import pandas as pd
 
 start_year = '2000'
 end_year = '2018'
@@ -86,13 +85,107 @@ def getRanking(limit):
     np.savetxt(filename+".csv", players, delimiter=";", fmt='%s', encoding='utf-8')
     print('Csv writed')
  
+def getTd(word):
+    try:
+        return soup.find(text=word).parent.parent.find('td').contents[0]
+    except AttributeError:
+        return ''
+
+def getTdSeasons(word):
+    try:
+        return soup.findAll(text=word)[1].parent.parent.find('td').find('span').contents[0]
+    except AttributeError:
+        return ''
+
+def getTdSpan(word):
+    try:
+        return soup.find(text=word).parent.parent.find('td').find('span').contents[0]
+    except AttributeError:
+        return ''
+
+
+def getTdA(word):
+    try:
+        return soup.find(text=word).parent.parent.find('td').find('a').contents[0]        
+    except AttributeError:
+        return ''
+
+def getTdProgress(word):
+    try:
+        test = soup.find(id='playerPerformance')
+        test  = test.find(text=word)
+        test = test.parent.parent
+        test = test.find(class_='pct-data')
+        test = test.contents[0]
+        return test      
+    except AttributeError:
+        return ''
+
+
+
 
     
 def getPlayersData():
-    #Ler CSv
-    # adicionar a um panda
-    #buscar infos na pagina referente a cada player
+    #settings
+    url = 'https://www.ultimatetennisstatistics.com/playerProfile?playerId='
+    df = pd.read_csv('top50_atp_04-02-2019.csv', sep=';')
+    driver = webdriver.Chrome()
+    driver.implicitly_wait(10)
+    
+    #necessário pois páginas são diferentes para cada jogador
+    #profile header
+    profile_header = ['Player_id', 'Age', 'Country', 'Height', 'Weight', 'Plays', 'Backhand', 'Turned_Pro', 'Seasons', 'Active', 
+            'Prize_Money', 'Titles', 'Grand_Slam', 'Masters', 'Finals', 'Current_Rank', 'Best_Rank', 
+            'Current_Elo_Rank', 'Best_Elo_Rank', 'Pick_Elo_Rank', 'Goat_Rank']      
+        
+    #go to performance tab
+    playerid = df.iloc[[0]].player_id[0]
+    driver.get(url+str(playerid))  
+
+    #performance header
+    button  = driver.find_element_by_id("performancePill")
+    driver.execute_script("arguments[0].click()", button)
+    time.sleep(2)
+    global soup    
+    soup = BeautifulSoup(driver.page_source, 'lxml')
+    tds = soup.find(id='playerPerformance').findAll('td')
+    performance_header = []
+    for td in tds:
+        performance_header.append(td.contents[0])
+    #until score breakdown
+    performance_header = performance_header[0:performance_header.index('Best of 5: 0:3')+1]
+    data = []
+    data.append(profile_header+performance_header)
+    for playerid in df.player_id:
+        data_player = []
+        #profile data
+        driver.get(url+str(playerid))
+        soup = BeautifulSoup(driver.page_source, 'lxml')
+        data_player.extend([playerid, getTd('Age'), getTdSpan('Country'), getTd('Weight'), getTd('Height'), getTd('Plays'),
+                getTd('Backhand'), getTd('Turned Pro'), getTdSeasons('Seasons'), getTd('Active'), getTd('Prize Money'),
+                getTdA('Titles'), getTdA('Grand Slams'), getTdA('Masters'), getTdA('Tour Finals'),
+                getTd('Current Rank'), getTd('Best Rank'), getTd('Current Elo Rank'), getTd('Best Elo Rank'),
+                getTd('Peak Elo Rating'), getTd('GOAT Rank')])
+        #performance data
+        button  = driver.find_element_by_id("performancePill")
+        driver.execute_script("arguments[0].click()", button)
+        time.sleep(2)
+        soup = BeautifulSoup(driver.page_source, 'lxml')
+        for header in performance_header:
+            data_player.append(getTdProgress(header))
+        data.append(data_player)
+    
+    ################TODO: RESULT BREAKDOWN
+
+    #Save to CSV
+    filename = 'players_stats_' + str(datetime.datetime.today().__format__('%d-%m-%Y'))    
+    print('Writing Csv')
+    np.savetxt(filename+".csv", np.array(data), delimiter=";", fmt='%s', encoding='utf-8')
+    print('Csv writed')
+
+
 
     return
 
-getRanking(50)
+soup = ''
+getPlayersData()
