@@ -72,7 +72,7 @@ def getRanking(limit):
             playerid = playerid['href'].split('=')[1]            
             ranking = int(tr.findAll('td')[0].contents[0].strip())
             players += [[ranking, playerid, player]]
-            if ranking > 50:
+            if ranking >= limit:
                 break
         #CLICAR NA PAGINACAO
         button_next = driver.find_element_by_class_name("pagination").find_element_by_class_name("next")
@@ -112,31 +112,35 @@ def getTdA(word):
 
 def getTdProgress(word):
     try:
-        test = soup.find(id='playerPerformance')
-        test  = test.find(text=word)
-        test = test.parent.parent
-        test = test.find(class_='pct-data')
-        test = test.contents[0]
-        return test      
+        return soup.find(id='playerPerformance').find(text=word).parent.parent.find(class_='pct-data').contents[0]       
     except AttributeError:
         return ''
 
-
-
-
+def getTdStats(word):
+    try:
+        if soup.find(id='playerStatsTab').find(text=word).parent.parent.findAll('th')[0].find('a'):            
+            return soup.find(id='playerStatsTab').find(text=word).parent.parent.findAll('th')[0].find('a').contents[0]  
+        else:
+            if soup.find(id='playerStatsTab').find(text=word).parent.parent.parent.name == 'thead':
+                return soup.find(id='playerStatsTab').findAll(text=word)[1].parent.parent.findAll('th')[0].contents[0]
+            else:  
+                return soup.find(id='playerStatsTab').find(text=word).parent.parent.findAll('th')[0].contents[0]           
+    except AttributeError:
+        return ''
     
 def getPlayersData():
     #settings
     url = 'https://www.ultimatetennisstatistics.com/playerProfile?playerId='
-    df = pd.read_csv('top50_atp_04-02-2019.csv', sep=';')
+    df = pd.read_csv('top50_atp_13-02-2019.csv', sep=';')
     driver = webdriver.Chrome()
     driver.implicitly_wait(10)
     
     #necessário pois páginas são diferentes para cada jogador
     #profile header
-    profile_header = ['Player_id', 'Age', 'Country', 'Height', 'Weight', 'Plays', 'Backhand', 'Turned_Pro', 'Seasons', 'Active', 
+    profile_header = ['Player_id', 'Player', 'Age', 'Country', 'Height', 'Weight', 'Plays', 'Backhand', 'Turned_Pro', 'Seasons', 'Active', 
             'Prize_Money', 'Titles', 'Grand_Slam', 'Masters', 'Finals', 'Current_Rank', 'Best_Rank', 
             'Current_Elo_Rank', 'Best_Elo_Rank', 'Pick_Elo_Rank', 'Goat_Rank']      
+     
         
     #go to performance tab
     playerid = df.iloc[[0]].player_id[0]
@@ -145,7 +149,7 @@ def getPlayersData():
     #performance header
     button  = driver.find_element_by_id("performancePill")
     driver.execute_script("arguments[0].click()", button)
-    time.sleep(2)
+    time.sleep(1)
     global soup    
     soup = BeautifulSoup(driver.page_source, 'lxml')
     tds = soup.find(id='playerPerformance').findAll('td')
@@ -154,14 +158,29 @@ def getPlayersData():
         performance_header.append(td.contents[0])
     #until score breakdown
     performance_header = performance_header[0:performance_header.index('Best of 5: 0:3')+1]
+
+    #stats header
+    button  = driver.find_element_by_id("statisticsPill")
+    driver.execute_script("arguments[0].click()", button)
+    time.sleep(1)
+    soup = BeautifulSoup(driver.page_source, 'lxml')
+    tds = soup.find(id='playerStatsTab').find(class_='tab-content').findAll('td')
+    stats_header = []
+    for td in tds:
+        stats_header.append(td.contents[0])
+    stats_header = list(set(stats_header))
+        
     data = []
-    data.append(profile_header+performance_header)
-    for playerid in df.player_id:
+    data.append(profile_header+[item.replace(' ', '_') for item in performance_header]+[item.replace(' ', '_') for item in stats_header])
+   
+    for playerid in df.player_id:        
         data_player = []
         #profile data
         driver.get(url+str(playerid))
         soup = BeautifulSoup(driver.page_source, 'lxml')
-        data_player.extend([playerid, getTd('Age'), getTdSpan('Country'), getTd('Weight'), getTd('Height'), getTd('Plays'),
+        player_name = df.loc[df.player_id== playerid].iloc[0].player_name
+        print(player_name)
+        data_player.extend([str(playerid), player_name, getTd('Age'), getTdSpan('Country'), getTd('Weight'), getTd('Height'), getTd('Plays'),
                 getTd('Backhand'), getTd('Turned Pro'), getTdSeasons('Seasons'), getTd('Active'), getTd('Prize Money'),
                 getTdA('Titles'), getTdA('Grand Slams'), getTdA('Masters'), getTdA('Tour Finals'),
                 getTd('Current Rank'), getTd('Best Rank'), getTd('Current Elo Rank'), getTd('Best Elo Rank'),
@@ -169,21 +188,32 @@ def getPlayersData():
         #performance data
         button  = driver.find_element_by_id("performancePill")
         driver.execute_script("arguments[0].click()", button)
-        time.sleep(2)
+        time.sleep(1)
         soup = BeautifulSoup(driver.page_source, 'lxml')
         for header in performance_header:
             data_player.append(getTdProgress(header))
+        
+        
+        #stats data
+        button  = driver.find_element_by_id("statisticsPill")
+        driver.execute_script("arguments[0].click()", button)
+        time.sleep(1)
+        soup = BeautifulSoup(driver.page_source, 'lxml')
+        for header in stats_header:           
+            data_player.append(str(getTdStats(header)))
+        [item.replace('\n', '') for item in data_player]
         data.append(data_player)
-    
-    ################TODO: RESULT BREAKDOWN
+        
 
+    
+    #TODO: RESULT BREAKDOWN
+
+ 
     #Save to CSV
     filename = 'players_stats_' + str(datetime.datetime.today().__format__('%d-%m-%Y'))    
     print('Writing Csv')
-    np.savetxt(filename+".csv", np.array(data), delimiter=";", fmt='%s', encoding='utf-8')
+    np.savetxt(filename+".csv", data, delimiter=";", fmt='%s', encoding='utf-8')
     print('Csv writed')
-
-
 
     return
 
