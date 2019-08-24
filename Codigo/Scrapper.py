@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 import numpy as np
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 import time
 import datetime
 import pandas as pd
@@ -56,34 +57,7 @@ def getTournamentsData():
     np.savetxt(filename+".csv", tournaments_data, delimiter=";", fmt='%s', encoding='utf-8')
     print('Csv writed')
 
-def getRanking(limit):
-    driver = webdriver.Chrome()
-    driver.get('https://www.ultimatetennisstatistics.com/rankingsTable')
-    ranking = 0
-    players = []
-    players += [['ranking', 'player_id', 'player_name']]
-    while ranking <= limit:           
-        soup = BeautifulSoup(driver.page_source, 'lxml')
-        table = soup.find(id='rankingsTable')
-        trs = table.find('tbody').findAll('tr')
-        for tr in trs:
-            player = tr.findAll('td')[3].find('a').contents[0]
-            playerid = tr.findAll('td')[3].find('a', href=True)
-            playerid = playerid['href'].split('=')[1]            
-            ranking = int(tr.findAll('td')[0].contents[0].strip())
-            players += [[ranking, playerid, player]]
-            if ranking >= limit:
-                break
-        #CLICAR NA PAGINACAO
-        button_next = driver.find_element_by_class_name("pagination").find_element_by_class_name("next")
-        button = button_next.find_element_by_tag_name("a")
-        driver.execute_script("arguments[0].click()", button)
-        time.sleep(5)
-    #ESCREVER NO CSV    
-    filename = 'top50_atp_' + str(datetime.datetime.today().__format__('%d-%m-%Y'))    
-    print('Writing Csv')
-    np.savetxt(filename+".csv", players, delimiter=";", fmt='%s', encoding='utf-8')
-    print('Csv writed')
+
  
 def getTd(word):
     try:
@@ -218,4 +192,4 @@ def getPlayersData():
     return
 
 soup = ''
-getPlayersData()
+getRanking(100)
