@@ -1,0 +1,362 @@
+player_name,adv_name,round,date,diff_rank,tourney_name,class,prediction
+Sam Querrey,Feliciano Lopez,R128,2018-01-15,-25.0,Australian Open,1,1
+Laslo Djere,Ivo Karlovic,R128,2018-01-15,-4.0,Australian Open,0,1
+Jan Lennard Struff,Roger Federer,R64,2018-01-15,53.0,Australian Open,0,0
+Marin Cilic,Roger Federer,F,2018-01-15,4.0,Australian Open,0,0
+Roger Federer,Richard Gasquet,R32,2018-01-15,-29.0,Australian Open,1,1
+Andrey Rublev,Marcos Baghdatis,R64,2018-01-15,-91.0,Australian Open,1,1
+Roberto Bautista Agut,Fernando Verdasco,R128,2018-01-15,-19.0,Australian Open,0,1
+Roger Federer,Tomas Berdych,QF,2018-01-15,-18.0,Australian Open,1,1
+Alex De Minaur,Tomas Berdych,R128,2018-01-15,107.0,Australian Open,0,0
+Fabio Fognini,Tomas Berdych,R16,2018-01-15,5.0,Australian Open,0,1
+Marin Cilic,Rafael Nadal,QF,2018-01-15,5.0,Australian Open,1,0
+Diego Sebastian Schwartzman,Rafael Nadal,R16,2018-01-15,25.0,Australian Open,0,0
+Benoit Paire,Guillermo Garcia Lopez,R128,2018-01-15,-29.0,Australian Open,0,1
+Novak Djokovic,Gael Monfils,R64,2018-01-15,-25.0,Australian Open,1,1
+Gael Monfils,Novak Djokovic,R64,2018-01-15,25.0,Australian Open,0,0
+Albert Ramos,Novak Djokovic,R32,2018-01-15,8.0,Australian Open,0,1
+Pablo Carreno Busta,Gilles Simon,R64,2018-01-15,-46.0,Australian Open,1,1
+Nick Kyrgios,Viktor Troicki,R64,2018-01-15,-48.0,Australian Open,1,1
+Karen Khachanov,Juan Martin Del Potro,R64,2018-01-15,37.0,Australian Open,0,0
+Nick Kyrgios,Jo Wilfried Tsonga,R32,2018-01-15,2.0,Australian Open,1,1
+Denis Shapovalov,Jo Wilfried Tsonga,R64,2018-01-15,35.0,Australian Open,0,0
+Karen Khachanov,Peter Polansky,R128,2018-01-15,-92.0,Australian Open,1,1
+Roger Federer,Marin Cilic,F,2018-01-15,-4.0,Australian Open,1,1
+Pablo Carreno Busta,Marin Cilic,R16,2018-01-15,5.0,Australian Open,0,0
+Rafael Nadal,Marin Cilic,QF,2018-01-15,-5.0,Australian Open,0,1
+Dominic Thiem,Adrian Mannarino,R32,2018-01-15,-22.0,Australian Open,1,1
+Matteo Berrettini,Adrian Mannarino,R128,2018-01-15,103.0,Australian Open,0,0
+Andrey Rublev,Grigor Dimitrov,R32,2018-01-15,29.0,Australian Open,0,0
+Nick Kyrgios,Grigor Dimitrov,R16,2018-01-15,14.0,Australian Open,0,0
+Rafael Nadal,Leonardo Mayer,R64,2018-01-15,-51.0,Australian Open,1,1
+Milos Raonic,Lukas Lacko,R128,2018-01-15,-63.0,Australian Open,0,1
+Fabio Fognini,Evgeny Donskoy,R64,2018-01-15,-47.0,Australian Open,1,1
+Novak Djokovic,Albert Ramos,R32,2018-01-15,-8.0,Australian Open,1,1
+Marin Cilic,Pablo Carreno Busta,R16,2018-01-15,-5.0,Australian Open,1,1
+Marin Cilic,Joao Sousa,R64,2018-01-15,-64.0,Australian Open,1,1
+David Goffin,Matthias Bachinger,R128,2018-01-15,-175.0,Australian Open,1,1
+Roger Federer,Aljaz Bedene,R128,2018-01-15,-49.0,Australian Open,1,1
+Marin Cilic,Vasek Pospisil,R128,2018-01-15,-99.0,Australian Open,1,1
+Dominic Thiem,Denis Kudla,R64,2018-01-15,-185.0,Australian Open,1,1
+Fernando Verdasco,Roberto Bautista Agut,R128,2018-01-15,19.0,Australian Open,1,0
+Diego Sebastian Schwartzman,Dusan Lajovic,R128,2018-01-15,-49.0,Australian Open,1,1
+Rafael Nadal,Diego Sebastian Schwartzman,R16,2018-01-15,-25.0,Australian Open,1,1
+Dusan Lajovic,Diego Sebastian Schwartzman,R128,2018-01-15,49.0,Australian Open,0,0
+Rafael Nadal,Damir Dzumhur,R32,2018-01-15,-29.0,Australian Open,1,1
+John Millman,Damir Dzumhur,R64,2018-01-15,92.0,Australian Open,0,0
+Roger Federer,Jan Lennard Struff,R64,2018-01-15,-53.0,Australian Open,1,1
+Dominic Thiem,Guido Pella,R128,2018-01-15,-51.0,Australian Open,1,1
+Grigor Dimitrov,Nick Kyrgios,R16,2018-01-15,-14.0,Australian Open,1,1
+Jo Wilfried Tsonga,Nick Kyrgios,R32,2018-01-15,-2.0,Australian Open,0,1
+Alexander Zverev,Thomas Fabbiano,R128,2018-01-15,-69.0,Australian Open,1,1
+Guido Pella,Dominic Thiem,R128,2018-01-15,51.0,Australian Open,0,0
+Adrian Mannarino,Dominic Thiem,R32,2018-01-15,22.0,Australian Open,0,0
+Alexander Zverev,Peter Gojowczyk,R64,2018-01-15,-58.0,Australian Open,1,1
+Daniil Medvedev,Thanasi Kokkinakis,R128,2018-01-15,-163.0,Australian Open,1,1
+Adrian Mannarino,Jiri Vesely,R64,2018-01-15,-37.0,Australian Open,1,1
+Marin Cilic,Kyle Edmund,SF,2018-01-15,-43.0,Australian Open,1,1
+Nikoloz Basilashvili,Kyle Edmund,R32,2018-01-15,12.0,Australian Open,0,1
+Grigor Dimitrov,Kyle Edmund,QF,2018-01-15,-46.0,Australian Open,0,1
+John Millman,Borna Coric,R128,2018-01-15,76.0,Australian Open,1,0
+Borna Coric,John Millman,R128,2018-01-15,-76.0,Australian Open,0,1
+Grigor Dimitrov,Andrey Rublev,R32,2018-01-15,-29.0,Australian Open,1,1
+Roger Federer,Hyeon Chung,SF,2018-01-15,-56.0,Australian Open,1,1
+Daniil Medvedev,Hyeon Chung,R64,2018-01-15,-5.0,Australian Open,0,1
+Alexander Zverev,Hyeon Chung,R32,2018-01-15,-54.0,Australian Open,0,1
+Novak Djokovic,Hyeon Chung,R16,2018-01-15,-44.0,Australian Open,0,1
+Gael Monfils,Jaume Munar,R128,2018-01-15,-148.0,Australian Open,1,1
+Grigor Dimitrov,Dennis Novak,R128,2018-01-15,-223.0,Australian Open,1,1
+Jo Wilfried Tsonga,Denis Shapovalov,R64,2018-01-15,-35.0,Australian Open,1,1
+Stefanos Tsitsipas,Denis Shapovalov,R128,2018-01-15,32.0,Australian Open,0,1
+Denis Shapovalov,Stefanos Tsitsipas,R128,2018-01-15,-32.0,Australian Open,1,1
+Diego Sebastian Schwartzman,Casper Ruud,R64,2018-01-15,-112.0,Australian Open,1,1
+Roger Federer,Marton Fucsovics,R16,2018-01-15,-78.0,Australian Open,1,1
+Radu Albot,Marton Fucsovics,R128,2018-01-15,7.0,Australian Open,0,1
+Sam Querrey,Marton Fucsovics,R64,2018-01-15,-67.0,Australian Open,0,1
+Adrian Mannarino,Matteo Berrettini,R128,2018-01-15,-103.0,Australian Open,1,1
+Dominic Thiem,Tennys Sandgren,R16,2018-01-15,-92.0,Australian Open,0,1
+Jan Lennard Struff,Soon Woo Kwon,R128,2018-01-15,-119.0,Australian Open,1,1
+Grigor Dimitrov,Mackenzie Mcdonald,R64,2018-01-15,-183.0,Australian Open,1,1
+Rafael Nadal,Richard Gasquet,R32,2018-05-28,-31.0,Roland Garros,1,1
+Novak Djokovic,Fernando Verdasco,R16,2018-05-28,-13.0,Roland Garros,1,1
+Grigor Dimitrov,Fernando Verdasco,R32,2018-05-28,-30.0,Roland Garros,0,1
+Guido Pella,Rafael Nadal,R64,2018-05-28,77.0,Roland Garros,0,0
+Diego Sebastian Schwartzman,Rafael Nadal,QF,2018-05-28,11.0,Roland Garros,0,0
+Dominic Thiem,Rafael Nadal,F,2018-05-28,7.0,Roland Garros,0,0
+Karen Khachanov,Guillermo Garcia Lopez,R64,2018-05-28,-29.0,Roland Garros,1,1
+David Goffin,Gael Monfils,R32,2018-05-28,-28.0,Roland Garros,1,1
+Borna Coric,Philipp Kohlschreiber,R128,2018-05-28,16.0,Roland Garros,1,0
+Roberto Bautista Agut,Novak Djokovic,R32,2018-05-28,-9.0,Roland Garros,0,1
+Fernando Verdasco,Novak Djokovic,R16,2018-05-28,13.0,Roland Garros,0,0
+Roberto Bautista Agut,Denis Istomin,R128,2018-05-28,-87.0,Roland Garros,1,1
+Kei Nishikori,Gilles Simon,R32,2018-05-28,-44.0,Roland Garros,1,1
+Nikoloz Basilashvili,Gilles Simon,R128,2018-05-28,12.0,Roland Garros,0,1
+Sam Querrey,Gilles Simon,R64,2018-05-28,-50.0,Roland Garros,0,1
+Rafael Nadal,Juan Martin Del Potro,SF,2018-05-28,-5.0,Roland Garros,1,1
+Albert Ramos,Juan Martin Del Potro,R32,2018-05-28,30.0,Roland Garros,0,0
+John Isner,Juan Martin Del Potro,R16,2018-05-28,4.0,Roland Garros,0,0
+Marin Cilic,Juan Martin Del Potro,QF,2018-05-28,-2.0,Roland Garros,0,1
+Fabio Fognini,Pablo Andujar,R128,2018-05-28,-110.0,Roland Garros,1,1
+Gael Monfils,Martin Klizan,R64,2018-05-28,-80.0,Roland Garros,1,1
+Laslo Djere,Martin Klizan,R128,2018-05-28,-16.0,Roland Garros,0,1
+Marin Cilic,Fabio Fognini,R16,2018-05-28,-14.0,Roland Garros,1,1
+David Goffin,Robin Haase,R128,2018-05-28,-35.0,Roland Garros,1,1
+Hubert Hurkacz,Marin Cilic,R64,2018-05-28,184.0,Roland Garros,0,0
+Fabio Fognini,Marin Cilic,R16,2018-05-28,14.0,Roland Garros,0,0
+Diego Sebastian Schwartzman,Kevin Anderson,R16,2018-05-28,5.0,Roland Garros,1,0
+Pablo Cuevas,Kevin Anderson,R64,2018-05-28,68.0,Roland Garros,0,0
+Dominic Thiem,Kei Nishikori,R16,2018-05-28,-13.0,Roland Garros,1,1
+Benoit Paire,Kei Nishikori,R64,2018-05-28,30.0,Roland Garros,0,0
+Alexander Zverev,Ricardas Berankis,R128,2018-05-28,-99.0,Roland Garros,1,1
+Fernando Verdasco,Grigor Dimitrov,R32,2018-05-28,30.0,Roland Garros,1,0
+Jan Lennard Struff,Evgeny Donskoy,R128,2018-05-28,-8.0,Roland Garros,1,1
+Albert Ramos,Mikhail Kukushkin,R128,2018-05-28,-47.0,Roland Garros,1,1
+Kei Nishikori,Benoit Paire,R64,2018-05-28,-30.0,Roland Garros,1,1
+Guido Pella,Joao Sousa,R128,2018-05-28,29.0,Roland Garros,1,1
+Pablo Cuevas,Aljaz Bedene,R128,2018-05-28,9.0,Roland Garros,1,1
+Gael Monfils,David Goffin,R32,2018-05-28,28.0,Roland Garros,0,0
+Pablo Carreno Busta,Federico Delbonis,R64,2018-05-28,-58.0,Roland Garros,1,1
+Fernando Verdasco,Guido Andreozzi,R64,2018-05-28,-73.0,Roland Garros,1,1
+Taylor Harry Fritz,Guido Andreozzi,R128,2018-05-28,-40.0,Roland Garros,0,1
+Novak Djokovic,Roberto Bautista Agut,R32,2018-05-28,9.0,Roland Garros,1,0
+Alexander Zverev,Dusan Lajovic,R64,2018-05-28,-57.0,Roland Garros,1,1
+Rafael Nadal,Diego Sebastian Schwartzman,QF,2018-05-28,-11.0,Roland Garros,1,1
+Borna Coric,Diego Sebastian Schwartzman,R32,2018-05-28,28.0,Roland Garros,0,0
+Alexander Zverev,Damir Dzumhur,R32,2018-05-28,-26.0,Roland Garros,1,1
+Radu Albot,Damir Dzumhur,R64,2018-05-28,68.0,Roland Garros,0,0
+Marin Cilic,Steve Johnson,R32,2018-05-28,-42.0,Roland Garros,1,1
+Adrian Mannarino,Steve Johnson,R128,2018-05-28,-20.0,Roland Garros,0,1
+Jan Lennard Struff,Steve Johnson,R64,2018-05-28,25.0,Roland Garros,0,1
+Dominic Thiem,Marco Cecchinato,SF,2018-05-28,-64.0,Roland Garros,1,1
+Pablo Carreno Busta,Marco Cecchinato,R32,2018-05-28,-61.0,Roland Garros,0,1
+David Goffin,Marco Cecchinato,R16,2018-05-28,-63.0,Roland Garros,0,1
+Novak Djokovic,Marco Cecchinato,QF,2018-05-28,-50.0,Roland Garros,0,1
+Rafael Nadal,Guido Pella,R64,2018-05-28,-77.0,Roland Garros,1,1
+Karen Khachanov,Lucas Pouille,R32,2018-05-28,22.0,Roland Garros,1,0
+Daniil Medvedev,Lucas Pouille,R128,2018-05-28,37.0,Roland Garros,0,0
+Fabio Fognini,Elias Ymer,R64,2018-05-28,-104.0,Roland Garros,1,1
+Dominic Thiem,Alexander Zverev,QF,2018-05-28,5.0,Roland Garros,1,0
+Dusan Lajovic,Alexander Zverev,R64,2018-05-28,57.0,Roland Garros,0,0
+Karen Khachanov,Alexander Zverev,R16,2018-05-28,35.0,Roland Garros,0,0
+Borna Coric,Thomas Fabbiano,R64,2018-05-28,-75.0,Roland Garros,1,1
+Rafael Nadal,Dominic Thiem,F,2018-05-28,-7.0,Roland Garros,1,1
+Stefanos Tsitsipas,Dominic Thiem,R64,2018-05-28,31.0,Roland Garros,0,0
+Matteo Berrettini,Dominic Thiem,R32,2018-05-28,88.0,Roland Garros,0,0
+Kei Nishikori,Dominic Thiem,R16,2018-05-28,13.0,Roland Garros,0,0
+Alexander Zverev,Dominic Thiem,QF,2018-05-28,-5.0,Roland Garros,0,1
+John Isner,Pierre Hugues Herbert,R32,2018-05-28,-77.0,Roland Garros,1,1
+Marin Cilic,James Duckworth,R128,2018-05-28,-1068.0,Roland Garros,1,1
+Dusan Lajovic,Jiri Vesely,R128,2018-05-28,-20.0,Roland Garros,1,1
+Fabio Fognini,Kyle Edmund,R32,2018-05-28,1.0,Roland Garros,1,1
+Alex De Minaur,Kyle Edmund,R128,2018-05-28,88.0,Roland Garros,0,0
+Diego Sebastian Schwartzman,Borna Coric,R32,2018-05-28,-28.0,Roland Garros,1,1
+Denis Shapovalov,John Millman,R128,2018-05-28,-34.0,Roland Garros,1,1
+Novak Djokovic,Jaume Munar,R64,2018-05-28,-133.0,Roland Garros,1,1
+Benoit Paire,Roberto Carballes Baena,R128,2018-05-28,-25.0,Roland Garros,1,1
+Fernando Verdasco,Yoshihito Nishioka,R128,2018-05-28,-231.0,Roland Garros,1,1
+Pablo Carreno Busta,Jozef Kovalik,R128,2018-05-28,-135.0,Roland Garros,1,1
+Alexander Zverev,Karen Khachanov,R16,2018-05-28,-35.0,Roland Garros,1,1
+Lucas Pouille,Karen Khachanov,R32,2018-05-28,-22.0,Roland Garros,0,1
+Lucas Pouille,Daniil Medvedev,R128,2018-05-28,-37.0,Roland Garros,1,1
+Radu Albot,Gregoire Barrere,R128,2018-05-28,-100.0,Roland Garros,1,1
+John Millman,Denis Shapovalov,R128,2018-05-28,34.0,Roland Garros,0,0
+Dominic Thiem,Ilya Ivashka,R128,2018-05-28,-111.0,Roland Garros,1,1
+Marin Cilic,Hubert Hurkacz,R64,2018-05-28,-184.0,Roland Garros,1,1
+Dominic Thiem,Stefanos Tsitsipas,R64,2018-05-28,-31.0,Roland Garros,1,1
+Albert Ramos,Casper Ruud,R64,2018-05-28,-121.0,Roland Garros,1,1
+Dominic Thiem,Matteo Berrettini,R32,2018-05-28,-88.0,Roland Garros,1,1
+Lucas Pouille,Cameron Norrie,R64,2018-05-28,-69.0,Roland Garros,1,1
+Hubert Hurkacz,Tennys Sandgren,R128,2018-05-28,134.0,Roland Garros,1,0
+David Goffin,Corentin Moutet,R64,2018-05-28,-132.0,Roland Garros,1,1
+Matteo Berrettini,Oscar Otte,R128,2018-05-28,-60.0,Roland Garros,1,1
+Jan Lennard Struff,Ivo Karlovic,R64,2018-07-02,-48.0,Wimbledon,1,1
+Dusan Lajovic,Roger Federer,R128,2018-07-02,56.0,Wimbledon,0,0
+Jan Lennard Struff,Roger Federer,R32,2018-07-02,62.0,Wimbledon,0,0
+Adrian Mannarino,Roger Federer,R16,2018-07-02,24.0,Wimbledon,0,0
+Gael Monfils,Richard Gasquet,R128,2018-07-02,13.0,Wimbledon,1,1
+Karen Khachanov,Marcos Baghdatis,R64,2018-07-02,-55.0,Wimbledon,1,1
+Dominic Thiem,Marcos Baghdatis,R128,2018-07-02,-88.0,Wimbledon,0,1
+Novak Djokovic,Rafael Nadal,SF,2018-07-02,20.0,Wimbledon,1,0
+Alex De Minaur,Rafael Nadal,R32,2018-07-02,79.0,Wimbledon,0,0
+Daniil Medvedev,Guillermo Garcia Lopez,R64,2018-07-02,2.0,Wimbledon,1,1
+Sam Querrey,Gael Monfils,R32,2018-07-02,-31.0,Wimbledon,0,1
+Rafael Nadal,Dudi Sela,R128,2018-07-02,-126.0,Wimbledon,1,1
+Karen Khachanov,Novak Djokovic,R16,2018-07-02,19.0,Wimbledon,0,0
+Kei Nishikori,Novak Djokovic,QF,2018-07-02,7.0,Wimbledon,0,1
+Rafael Nadal,Novak Djokovic,SF,2018-07-02,-20.0,Wimbledon,0,1
+Nick Kyrgios,Denis Istomin,R128,2018-07-02,-74.0,Wimbledon,1,1
+Nikoloz Basilashvili,Gilles Simon,R128,2018-07-02,21.0,Wimbledon,0,1
+Matteo Berrettini,Gilles Simon,R64,2018-07-02,28.0,Wimbledon,0,1
+Gael Monfils,Sam Querrey,R32,2018-07-02,31.0,Wimbledon,1,0
+Rafael Nadal,Juan Martin Del Potro,QF,2018-07-02,-3.0,Wimbledon,1,1
+Benoit Paire,Juan Martin Del Potro,R32,2018-07-02,43.0,Wimbledon,0,0
+Nick Kyrgios,Robin Haase,R64,2018-07-02,-25.0,Wimbledon,1,1
+Radu Albot,John Isner,R32,2018-07-02,88.0,Wimbledon,0,0
+Stefanos Tsitsipas,John Isner,R16,2018-07-02,25.0,Wimbledon,0,0
+Milos Raonic,John Isner,QF,2018-07-02,22.0,Wimbledon,0,0
+Guido Pella,Marin Cilic,R64,2018-07-02,77.0,Wimbledon,1,0
+Novak Djokovic,Kevin Anderson,F,2018-07-02,13.0,Wimbledon,1,0
+Gael Monfils,Kevin Anderson,R16,2018-07-02,36.0,Wimbledon,0,0
+Roger Federer,Kevin Anderson,QF,2018-07-02,-6.0,Wimbledon,0,1
+John Isner,Kevin Anderson,SF,2018-07-02,2.0,Wimbledon,0,0
+Novak Djokovic,Kei Nishikori,QF,2018-07-02,-7.0,Wimbledon,1,1
+Nick Kyrgios,Kei Nishikori,R32,2018-07-02,-10.0,Wimbledon,0,1
+Kei Nishikori,Bernard Tomic,R64,2018-07-02,-156.0,Wimbledon,1,1
+Hubert Hurkacz,Bernard Tomic,R128,2018-07-02,-62.0,Wimbledon,0,1
+Roger Federer,Adrian Mannarino,R16,2018-07-02,-24.0,Wimbledon,1,1
+Christian Garin,Adrian Mannarino,R128,2018-07-02,141.0,Wimbledon,0,0
+Daniil Medvedev,Adrian Mannarino,R32,2018-07-02,41.0,Wimbledon,0,0
+Denis Shapovalov,Jeremy Chardy,R128,2018-07-02,-21.0,Wimbledon,1,1
+Jan Lennard Struff,Leonardo Mayer,R128,2018-07-02,28.0,Wimbledon,1,1
+Roger Federer,Lukas Lacko,R64,2018-07-02,-71.0,Wimbledon,1,1
+Sam Querrey,Sergiy Stakhovsky,R64,2018-07-02,-96.0,Wimbledon,1,1
+Gael Monfils,Paolo Lorenzi,R64,2018-07-02,-42.0,Wimbledon,1,1
+Laslo Djere,Paolo Lorenzi,R128,2018-07-02,4.0,Wimbledon,0,1
+Rafael Nadal,Mikhail Kukushkin,R64,2018-07-02,-76.0,Wimbledon,1,1
+John Isner,Milos Raonic,QF,2018-07-02,-22.0,Wimbledon,1,1
+John Millman,Milos Raonic,R64,2018-07-02,24.0,Wimbledon,0,0
+Denis Shapovalov,Benoit Paire,R64,2018-07-02,-22.0,Wimbledon,0,1
+Radu Albot,Pablo Carreno Busta,R128,2018-07-02,86.0,Wimbledon,1,0
+Radu Albot,Aljaz Bedene,R64,2018-07-02,27.0,Wimbledon,1,1
+Lucas Pouille,Denis Kudla,R128,2018-07-02,-65.0,Wimbledon,1,1
+Roger Federer,Dusan Lajovic,R128,2018-07-02,-56.0,Wimbledon,1,1
+Roger Federer,Jan Lennard Struff,R32,2018-07-02,-62.0,Wimbledon,1,1
+Alex De Minaur,Marco Cecchinato,R128,2018-07-02,51.0,Wimbledon,1,0
+Marin Cilic,Guido Pella,R64,2018-07-02,-77.0,Wimbledon,0,1
+Kei Nishikori,Nick Kyrgios,R32,2018-07-02,10.0,Wimbledon,1,1
+Taylor Harry Fritz,Alexander Zverev,R64,2018-07-02,65.0,Wimbledon,0,0
+Stefanos Tsitsipas,Thomas Fabbiano,R32,2018-07-02,-98.0,Wimbledon,1,1
+Alex De Minaur,Pierre Hugues Herbert,R64,2018-07-02,8.0,Wimbledon,1,1
+Alexander Zverev,James Duckworth,R128,2018-07-02,-745.0,Wimbledon,1,1
+Rafael Nadal,Jiri Vesely,R16,2018-07-02,-92.0,Wimbledon,1,1
+Diego Sebastian Schwartzman,Jiri Vesely,R64,2018-07-02,-82.0,Wimbledon,0,1
+Fabio Fognini,Jiri Vesely,R32,2018-07-02,-77.0,Wimbledon,0,1
+Novak Djokovic,Kyle Edmund,R32,2018-07-02,4.0,Wimbledon,1,1
+Daniil Medvedev,Borna Coric,R128,2018-07-02,47.0,Wimbledon,1,0
+Fabio Fognini,Taro Daniel,R128,2018-07-02,-71.0,Wimbledon,1,1
+Milos Raonic,John Millman,R64,2018-07-02,-24.0,Wimbledon,1,1
+Filip Krajinovic,Nicolas Jarry,R128,2018-07-02,-36.0,Wimbledon,0,1
+Milos Raonic,Dennis Novak,R32,2018-07-02,-139.0,Wimbledon,1,1
+Lucas Pouille,Dennis Novak,R64,2018-07-02,-152.0,Wimbledon,0,1
+Marin Cilic,Yoshihito Nishioka,R128,2018-07-02,-251.0,Wimbledon,1,1
+Alexander Zverev,Taylor Harry Fritz,R64,2018-07-02,-65.0,Wimbledon,1,1
+John Isner,Radu Albot,R32,2018-07-02,-88.0,Wimbledon,1,1
+Pablo Carreno Busta,Radu Albot,R128,2018-07-02,-86.0,Wimbledon,0,1
+Novak Djokovic,Karen Khachanov,R16,2018-07-02,-19.0,Wimbledon,1,1
+Adrian Mannarino,Christian Garin,R128,2018-07-02,-141.0,Wimbledon,1,1
+Adrian Mannarino,Daniil Medvedev,R32,2018-07-02,-41.0,Wimbledon,1,1
+Borna Coric,Daniil Medvedev,R128,2018-07-02,-47.0,Wimbledon,0,1
+Stefanos Tsitsipas,Gregoire Barrere,R128,2018-07-02,-153.0,Wimbledon,1,1
+Sam Querrey,Jordan Thompson,R128,2018-07-02,-88.0,Wimbledon,1,1
+Benoit Paire,Denis Shapovalov,R64,2018-07-02,22.0,Wimbledon,1,0
+Rafael Nadal,Alex De Minaur,R32,2018-07-02,-79.0,Wimbledon,1,1
+John Isner,Stefanos Tsitsipas,R16,2018-07-02,-25.0,Wimbledon,1,1
+John Millman,Stefano Travaglia,R128,2018-07-02,-81.0,Wimbledon,1,1
+Benoit Paire,Jason Jung,R128,2018-07-02,-108.0,Wimbledon,1,1
+Novak Djokovic,Tennys Sandgren,R128,2018-07-02,-36.0,Wimbledon,1,1
+Milos Raonic,Mackenzie Mcdonald,R16,2018-07-02,-71.0,Wimbledon,1,1
+Guido Pella,Mackenzie Mcdonald,R32,2018-07-02,-21.0,Wimbledon,0,1
+John Isner,Yannick Maden,R128,2018-07-02,-124.0,Wimbledon,1,1
+Taylor Harry Fritz,Lorenzo Sonego,R128,2018-07-02,-53.0,Wimbledon,1,1
+Fernando Verdasco,Feliciano Lopez,R128,2018-08-27,-31.0,Us Open,1,1
+John Millman,Roger Federer,R16,2018-08-27,53.0,Us Open,1,0
+Benoit Paire,Roger Federer,R64,2018-08-27,54.0,Us Open,0,0
+Nick Kyrgios,Roger Federer,R32,2018-08-27,28.0,Us Open,0,0
+Novak Djokovic,Richard Gasquet,R32,2018-08-27,-19.0,Us Open,1,1
+Laslo Djere,Richard Gasquet,R64,2018-08-27,64.0,Us Open,0,0
+Alexander Zverev,Nicolas Mahut,R64,2018-08-27,-127.0,Us Open,1,1
+Denis Shapovalov,Andreas Seppi,R64,2018-08-27,-23.0,Us Open,1,1
+Sam Querrey,Andreas Seppi,R128,2018-08-27,-16.0,Us Open,0,1
+Lucas Pouille,Marcos Baghdatis,R64,2018-08-27,-76.0,Us Open,1,1
+Karen Khachanov,Rafael Nadal,R32,2018-08-27,25.0,Us Open,0,0
+Nikoloz Basilashvili,Rafael Nadal,R16,2018-08-27,36.0,Us Open,0,0
+Dominic Thiem,Rafael Nadal,QF,2018-08-27,8.0,Us Open,0,0
+Kei Nishikori,Gael Monfils,R64,2018-08-27,-20.0,Us Open,1,1
+Kei Nishikori,Philipp Kohlschreiber,R16,2018-08-27,-15.0,Us Open,1,1
+Alexander Zverev,Philipp Kohlschreiber,R32,2018-08-27,-30.0,Us Open,0,1
+John Millman,Novak Djokovic,QF,2018-08-27,49.0,Us Open,0,0
+Kei Nishikori,Novak Djokovic,SF,2018-08-27,13.0,Us Open,0,0
+Fernando Verdasco,Andy Murray,R64,2018-08-27,-350.0,Us Open,1,1
+Milos Raonic,Gilles Simon,R64,2018-08-27,-16.0,Us Open,1,1
+Novak Djokovic,Juan Martin Del Potro,F,2018-08-27,3.0,Us Open,1,0
+Fernando Verdasco,Juan Martin Del Potro,R32,2018-08-27,29.0,Us Open,0,0
+Borna Coric,Juan Martin Del Potro,R16,2018-08-27,17.0,Us Open,0,0
+John Isner,Juan Martin Del Potro,QF,2018-08-27,8.0,Us Open,0,0
+Rafael Nadal,Juan Martin Del Potro,SF,2018-08-27,-2.0,Us Open,0,1
+Alexander Zverev,Peter Polansky,R128,2018-08-27,-115.0,Us Open,1,1
+John Millman,Fabio Fognini,R64,2018-08-27,41.0,Us Open,1,0
+David Goffin,Robin Haase,R64,2018-08-27,-39.0,Us Open,1,1
+Dusan Lajovic,John Isner,R32,2018-08-27,51.0,Us Open,0,0
+Milos Raonic,John Isner,R16,2018-08-27,13.0,Us Open,0,0
+Kei Nishikori,Marin Cilic,QF,2018-08-27,12.0,Us Open,1,0
+Hubert Hurkacz,Marin Cilic,R64,2018-08-27,102.0,Us Open,0,0
+Alex De Minaur,Marin Cilic,R32,2018-08-27,38.0,Us Open,0,0
+David Goffin,Marin Cilic,R16,2018-08-27,3.0,Us Open,0,0
+Dominic Thiem,Kevin Anderson,R16,2018-08-27,4.0,Us Open,1,0
+Denis Shapovalov,Kevin Anderson,R32,2018-08-27,23.0,Us Open,0,0
+Novak Djokovic,Kei Nishikori,SF,2018-08-27,-13.0,Us Open,1,1
+Gael Monfils,Kei Nishikori,R64,2018-08-27,20.0,Us Open,0,0
+Diego Sebastian Schwartzman,Kei Nishikori,R32,2018-08-27,-6.0,Us Open,0,1
+Marin Cilic,Kei Nishikori,QF,2018-08-27,-12.0,Us Open,0,1
+Andrey Rublev,Jeremy Chardy,R128,2018-08-27,-8.0,Us Open,0,1
+Laslo Djere,Leonardo Mayer,R128,2018-08-27,46.0,Us Open,1,1
+Daniil Medvedev,Evgeny Donskoy,R128,2018-08-27,-44.0,Us Open,1,1
+Guido Pella,Paolo Lorenzi,R64,2018-08-27,-28.0,Us Open,1,1
+John Isner,Bradley Klahn,R128,2018-08-27,-81.0,Us Open,1,1
+John Millman,Mikhail Kukushkin,R32,2018-08-27,-29.0,Us Open,1,1
+John Isner,Milos Raonic,R16,2018-08-27,-13.0,Us Open,1,1
+Roger Federer,Benoit Paire,R64,2018-08-27,-54.0,Us Open,1,1
+Karen Khachanov,Albert Ramos,R128,2018-08-27,-26.0,Us Open,1,1
+Novak Djokovic,Joao Sousa,R16,2018-08-27,-62.0,Us Open,1,1
+Pablo Carreno Busta,Joao Sousa,R64,2018-08-27,-56.0,Us Open,0,1
+Lucas Pouille,Joao Sousa,R32,2018-08-27,-51.0,Us Open,0,1
+Nikoloz Basilashvili,Aljaz Bedene,R128,2018-08-27,-41.0,Us Open,1,1
+Rafael Nadal,Vasek Pospisil,R64,2018-08-27,-87.0,Us Open,1,1
+Matteo Berrettini,Denis Kudla,R128,2018-08-27,-15.0,Us Open,0,1
+Marin Cilic,David Goffin,R16,2018-08-27,-3.0,Us Open,1,1
+Jan Lennard Struff,David Goffin,R32,2018-08-27,48.0,Us Open,0,0
+Diego Sebastian Schwartzman,Federico Delbonis,R128,2018-08-27,-98.0,Us Open,1,1
+John Isner,Dusan Lajovic,R32,2018-08-27,-51.0,Us Open,1,1
+Kei Nishikori,Diego Sebastian Schwartzman,R32,2018-08-27,6.0,Us Open,1,0
+Dusan Lajovic,Damir Dzumhur,R128,2018-08-27,35.0,Us Open,1,0
+Dominic Thiem,Steve Johnson,R64,2018-08-27,-22.0,Us Open,1,1
+David Goffin,Jan Lennard Struff,R32,2018-08-27,-48.0,Us Open,1,1
+Nikoloz Basilashvili,Guido Pella,R32,2018-08-27,-29.0,Us Open,1,1
+Roger Federer,Nick Kyrgios,R32,2018-08-27,-28.0,Us Open,1,1
+Radu Albot,Nick Kyrgios,R128,2018-08-27,65.0,Us Open,0,0
+Marin Cilic,Marius Copil,R128,2018-08-27,-75.0,Us Open,1,1
+Rafael Nadal,Dominic Thiem,QF,2018-08-27,-8.0,Us Open,1,1
+Taylor Harry Fritz,Dominic Thiem,R32,2018-08-27,65.0,Us Open,0,0
+Nick Kyrgios,Pierre Hugues Herbert,R64,2018-08-27,-45.0,Us Open,1,1
+Daniil Medvedev,Borna Coric,R32,2018-08-27,16.0,Us Open,0,0
+Alex De Minaur,Taro Daniel,R128,2018-08-27,-19.0,Us Open,1,1
+Novak Djokovic,John Millman,QF,2018-08-27,-49.0,Us Open,1,1
+Fabio Fognini,John Millman,R64,2018-08-27,-41.0,Us Open,0,1
+Roger Federer,John Millman,R16,2018-08-27,-53.0,Us Open,0,1
+Rafael Nadal,Nikoloz Basilashvili,R16,2018-08-27,-36.0,Us Open,1,1
+Guido Pella,Nikoloz Basilashvili,R32,2018-08-27,29.0,Us Open,0,1
+John Isner,Nicolas Jarry,R64,2018-08-27,-31.0,Us Open,1,1
+Gael Monfils,Facundo Bagnis,R128,2018-08-27,-110.0,Us Open,1,1
+Diego Sebastian Schwartzman,Jaume Munar,R64,2018-08-27,-72.0,Us Open,1,1
+Borna Coric,Roberto Carballes Baena,R64,2018-08-27,-77.0,Us Open,1,1
+Benoit Paire,Dennis Novak,R128,2018-08-27,-84.0,Us Open,1,1
+Roger Federer,Yoshihito Nishioka,R128,2018-08-27,-175.0,Us Open,1,1
+Dominic Thiem,Taylor Harry Fritz,R32,2018-08-27,-65.0,Us Open,1,1
+Nick Kyrgios,Radu Albot,R128,2018-08-27,-65.0,Us Open,1,1
+Rafael Nadal,Karen Khachanov,R32,2018-08-27,-25.0,Us Open,1,1
+Albert Ramos,Karen Khachanov,R128,2018-08-27,26.0,Us Open,0,0
+Borna Coric,Daniil Medvedev,R32,2018-08-27,-16.0,Us Open,1,1
+Stefanos Tsitsipas,Daniil Medvedev,R64,2018-08-27,-21.0,Us Open,0,1
+Felix Auger Aliassime,Denis Shapovalov,R128,2018-08-27,89.0,Us Open,0,0
+Marin Cilic,Hubert Hurkacz,R64,2018-08-27,-102.0,Us Open,1,1
+Marin Cilic,Alex De Minaur,R32,2018-08-27,-38.0,Us Open,1,1
+Daniil Medvedev,Stefanos Tsitsipas,R64,2018-08-27,21.0,Us Open,1,0
+Guido Pella,Casper Ruud,R128,2018-08-27,-77.0,Us Open,1,1
+Novak Djokovic,Marton Fucsovics,R128,2018-08-27,-35.0,Us Open,1,1
+Dusan Lajovic,Cameron Norrie,R64,2018-08-27,-5.0,Us Open,1,1
+Hubert Hurkacz,Stefano Travaglia,R128,2018-08-27,-32.0,Us Open,1,1
+Novak Djokovic,Tennys Sandgren,R64,2018-08-27,-55.0,Us Open,1,1
+Denis Shapovalov,Felix Auger Aliassime,R128,2018-08-27,-89.0,Us Open,1,1
+Lucas Pouille,Yannick Maden,R128,2018-08-27,-108.0,Us Open,1,1
+Karen Khachanov,Lorenzo Sonego,R64,2018-08-27,-95.0,Us Open,1,1
+David Goffin,Federico Gaio,R128,2018-08-27,-232.0,Us Open,1,1

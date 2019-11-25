@@ -1,0 +1,187 @@
+player_id,player_name,age,country,favorite_hand,backhand,turned_pro,prize_money,titles,cluster_level,cluster_piso,cluster_pressao,cluster_saque,cluster_duplafalta,cluster_servico,cluster_retorno,cluster_bpcontra,cluster_bpfavor,cluster_pontos,cluster_game,cluster_match,cluster_tiebreak,cluster_upset,cluster_dominance,cluster_rodada,cluster_velocidade,cluster_oponente
+4742,Rafael Nadal,33,Spain,Left-handed,Two-handed,2001,115178858,84,0,1,0,0,0,0,2,0,0,0,0,0,2,0,2,3,0,2
+4920,Novak Djokovic,32,Serbia,Right-handed,Two-handed,2003,135259120,77,0,1,0,1,0,0,2,0,0,2,0,0,2,0,2,3,0,2
+3819,Roger Federer,38,Switzerland,Right-handed,One-handed,1998,126840700,103,0,1,0,1,0,0,2,0,0,2,0,0,2,0,2,3,0,2
+6407,Daniil Medvedev,23,Russian Federation,Right-handed,Two-handed,2014,,7,0,1,1,1,1,0,1,0,0,0,0,0,2,2,0,3,0,2
+6219,Dominic Thiem,26,Austria,Right-handed,One-handed,2011,18588662,16,0,1,0,1,0,0,1,0,0,2,0,0,2,2,0,3,0,2
+26578,Stefanos Tsitsipas,21,Greece,Right-handed,One-handed,2016,6177147,3,0,1,0,1,0,0,3,0,2,2,0,0,2,2,0,3,0,2
+644,Alexander Zverev,22,Germany,Right-handed,Two-handed,2013,17914291,11,0,1,0,1,1,0,1,1,0,2,0,0,2,0,0,3,0,2
+26414,Matteo Berrettini,23,Italy,0,Two-handed,2015,2957626,3,0,1,0,1,0,0,3,0,2,2,0,0,2,2,0,3,0,2
+5131,Roberto Bautista Agut,31,Spain,Right-handed,Two-handed,2005,11397925,9,0,1,0,0,0,0,1,0,0,2,0,0,2,0,0,3,0,2
+4789,Gael Monfils,33,France,Right-handed,Two-handed,2004,17211980,8,0,1,0,1,1,0,1,0,0,2,0,0,2,2,0,3,0,2
+5663,David Goffin,28,Belgium,Right-handed,Two-handed,2009,12741033,4,0,1,0,0,1,2,2,1,0,2,0,0,2,0,0,3,0,1
+4921,Fabio Fognini,32,Italy,Right-handed,Two-handed,2004,13470614,9,0,1,0,0,1,2,2,1,0,2,2,0,2,2,0,3,0,1
+5442,Kei Nishikori,29,Japan,Right-handed,Two-handed,2007,23644511,12,0,1,0,0,0,0,2,1,0,2,0,0,2,0,0,3,0,2
+6029,Diego Sebastian Schwartzman,27,Argentina,Right-handed,Two-handed,2010,6132261,3,0,1,0,0,0,2,2,1,0,2,0,0,0,2,0,3,0,1
+33215,Denis Shapovalov,20,Canada,Left-handed,One-handed,2017,3652561,1,0,1,0,1,1,0,3,0,2,2,2,0,2,2,0,3,1,1
+4526,Stan Wawrinka,34,Switzerland,Right-handed,One-handed,2002,33086706,16,0,1,0,1,0,0,1,0,0,2,0,0,2,2,0,3,0,2
+11547,Karen Khachanov,23,Russian Federation,Right-handed,Two-handed,2013,6944315,4,0,1,0,1,0,0,1,0,0,2,0,0,0,2,0,3,0,1
+45107,Alex De Minaur,20,Australia,Right-handed,Two-handed,2015,2345970,3,0,1,0,0,0,0,1,1,0,2,2,0,2,2,0,3,1,1
+4544,John Isner,34,United States,Right-handed,Two-handed,2007,18397716,15,0,1,0,2,0,0,0,0,2,1,0,0,2,2,0,3,0,2
+5763,Grigor Dimitrov,28,Bulgaria,Right-handed,One-handed,2008,17621749,8,0,1,0,1,1,0,1,0,2,2,0,0,2,2,0,3,0,2
+44826,Felix Auger Aliassime,19,Canada,Right-handed,Two-handed,2017,1744318,0,0,1,1,1,1,0,3,0,0,0,2,0,2,1,0,3,0,1
+6284,Lucas Pouille,25,France,Right-handed,Two-handed,2012,7035417,5,0,1,0,1,0,0,3,0,0,2,2,0,2,2,0,3,0,1
+25898,Andrey Rublev,22,Russian Federation,Right-handed,Two-handed,2014,3427292,2,0,1,0,0,1,2,1,1,0,2,2,0,0,1,0,0,0,1
+5324,Benoit Paire,30,France,Right-handed,Two-handed,2007,7261886,3,0,1,0,1,1,2,1,1,0,2,2,0,2,2,0,3,0,1
+5539,Guido Pella,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,2,2,2,0,2,2,0,0,0,1
+5918,Nikoloz Basilashvili,27,Georgia,Right-handed,Two-handed,2008,4271703,3,0,1,0,0,1,2,1,1,0,2,2,0,2,2,1,0,1,1
+5793,Pablo Carreno Busta,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,2,2,0,2,2,0,3,0,1
+6418,Borna Coric,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,2,2,0,2,2,0,3,0,2
+4541,Jo Wilfried Tsonga,34,France,Right-handed,Two-handed,2004,21885882,18,0,1,0,1,0,0,3,0,0,2,0,0,2,0,2,3,0,2
+6387,Nick Kyrgios,24,Australia,Right-handed,Two-handed,2013,7752438,6,0,1,0,2,1,0,3,0,0,2,0,0,2,2,0,3,0,2
+24021,Reilly Opelka,22,United States,0,Two-handed,2015,961043,1,0,1,0,2,1,0,0,0,2,2,2,0,2,1,0,4,1,1
+5670,Milos Raonic,28,Canada,Right-handed,Two-handed,2008,18507698,8,0,1,0,2,1,0,3,0,2,2,0,0,2,0,2,3,0,2
+26007,Taylor Harry Fritz,22,United States,Right-handed,Two-handed,2015,2722314,1,0,1,0,1,0,0,3,0,2,2,2,0,2,2,0,0,0,1
+6412,Christian Garin,23,Chile,Right-handed,Two-handed,2013,1119730,2,0,1,0,0,0,2,1,1,0,2,2,0,2,2,0,0,0,2
+5571,Dusan Lajovic,29,Serbia,Right-handed,One-handed,2007,4668292,1,0,0,1,0,0,2,1,1,0,0,2,0,0,2,0,1,0,1
+5515,Jan Lennard Struff,29,Germany,Right-handed,Two-handed,2009,5049507,0,0,1,0,1,1,0,3,1,2,2,2,0,0,2,0,1,0,1
+27835,Hubert Hurkacz,22,Poland,Right-handed,Two-handed,2015,1517157,1,0,1,1,1,1,0,3,0,2,2,2,0,0,2,0,0,1,1
+11485,Laslo Djere,24,Serbia,Right-handed,Two-handed,2013,1925547,1,0,0,0,0,0,2,3,1,2,2,2,1,0,2,1,4,0,1
+5220,Marin Cilic,31,Croatia,Right-handed,Two-handed,2005,27022364,18,0,1,0,1,0,0,1,0,0,2,0,0,2,0,0,3,0,2
+5922,Filip Krajinovic,27,Serbia,Right-handed,Two-handed,2008,2874463,0,0,0,0,0,0,2,1,1,0,0,2,0,0,2,0,0,0,1
+5070,Albert Ramos,31,Spain,Left-handed,Two-handed,2007,7062030,2,0,1,0,0,0,2,1,1,0,0,2,0,0,2,0,0,0,1
+5543,Daniel Evans,29,United Kingdom,Right-handed,One-handed,2006,2182736,0,0,1,0,0,1,2,1,1,0,1,2,1,2,1,0,0,1,1
+5166,Adrian Mannarino,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1,0,0,2,0,0,2,0,0,1,1
+5016,Sam Querrey,32,United States,Right-handed,Two-handed,2006,11912152,10,0,1,0,2,1,0,3,0,2,2,0,0,2,2,0,3,0,1
+4654,Pablo Cuevas,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,2,0,2,2,0,0,0,1
+5420,Radu Albot,29,"Moldova, Republic of",Right-handed,Two-handed,2008,2935790,1,0,1,0,0,0,1,1,1,2,2,2,0,2,0,1,4,1,1
+26011,Frances Tiafoe,21,United States,Right-handed,Two-handed,2015,2990769,1,0,1,1,1,0,2,3,1,2,2,2,1,0,2,1,0,0,1
+22171,Alexander Bublik,22,Russian Federation,Right-handed,Two-handed,0,770281,0,0,1,0,2,1,2,3,2,0,2,1,0,2,0,1,0,1,1
+5349,John Millman,30,Australia,Right-handed,Two-handed,2006,2752962,0,0,1,0,0,0,2,1,1,0,2,2,0,0,2,0,0,1,1
+4269,Fernando Verdasco,35,Spain,Left-handed,Two-handed,2001,15.171.205,7,0,1,0,0,1,0,1,0,0,2,0,0,2,2,0,3,0,1
+6214,Juan Ignacio Londero,26,Argentina,Right-handed,Two-handed,2010,944760,1,0,1,0,0,0,0,1,0,2,2,2,0,0,2,0,0,1,1
+4868,Jeremy Chardy,32,France,Right-handed,Two-handed,2005,8658443,1,0,1,0,1,1,0,3,0,2,2,2,0,0,2,0,1,0,1
+32068,Lorenzo Sonego,24,Italy,Right-handed,Two-handed,2013,1161924,1,1,1,0,1,0,0,3,0,2,2,2,1,2,1,1,0,0,1
+11787,Cameron Norrie,24,United Kingdom,Left-handed,Two-handed,2017,1614496,0,0,1,1,0,1,2,1,0,0,2,2,0,0,2,0,4,0,1
+44831,Ugo Humbert,21,France,Left-handed,Two-handed,2016,898575,0,1,1,1,1,0,0,3,0,0,2,2,1,0,2,0,4,1,1
+34555,Casper Ruud,20,Norway,Right-handed,Two-handed,2015,1279962,0,0,0,0,0,1,2,1,0,0,0,2,0,0,1,0,4,0,0
+4467,Gilles Simon,34,France,Right-handed,Two-handed,2002,14523362,14,0,1,0,0,0,2,2,1,0,2,0,0,2,2,0,3,0,2
+4664,Pablo Andujar,33,Spain,Right-handed,Two-handed,2004,5000406,4,0,0,0,0,1,1,1,1,0,0,2,0,0,2,1,0,1,1
+5370,Aljaz Bedene,30,Slovenia,Right-handed,Two-handed,2008,3591892,0,0,1,0,1,0,2,3,1,0,2,2,0,2,2,1,0,0,1
+45001,Miomir Kecmanovic,20,Serbia,Right-handed,Two-handed,2017,1002656,0,0,1,0,0,0,0,3,0,0,0,2,0,0,1,0,0,1,1
+5303,Joao Sousa,30,Portugal,Right-handed,Two-handed,2008,6119457,3,0,1,0,0,0,2,1,1,2,2,2,0,2,2,1,0,0,1
+4752,Richard Gasquet,33,France,Right-handed,One-handed,2002,17648594,15,0,1,0,1,0,0,1,1,0,0,0,0,2,0,0,3,0,1
+3852,Feliciano Lopez,38,Spain,Left-handed,One-handed,1997,16819301,7,0,1,0,1,0,0,3,0,2,2,2,0,2,2,0,3,0,1
+11415,Jordan Thompson,25,Australia,Right-handed,Two-handed,2013,1907200,0,0,1,1,1,0,2,1,1,0,2,2,1,0,2,1,0,1,2
+5718,Pierre Hugues Herbert,0,0,0,0,0,0,0,0,1,0,1,1,0,3,0,2,2,2,0,0,2,1,0,0,1
+5564,Ricardas Berankis,29,Lithuania,Right-handed,Two-handed,2007,2765391,0,1,0,0,0,0,2,3,1,2,2,2,0,0,1,1,0,0,1
+5055,Mikhail Kukushkin,31,Kazakhstan,Right-handed,Two-handed,2006,4997728,1,0,1,0,0,0,2,1,1,0,2,2,0,0,2,0,0,1,1
+6364,Kyle Edmund,24,United Kingdom,Right-handed,Two-handed,2011,4965000,1,0,1,0,1,0,0,3,0,0,2,2,0,0,2,0,3,1,1
+5801,Tennys Sandgren,28,United States,Right-handed,Two-handed,2011,1937788,1,0,1,0,1,0,0,3,1,0,2,2,1,0,2,1,0,1,2
+6401,Yoshihito Nishioka,24,Japan,Left-handed,Two-handed,0,1703096,1,0,0,0,0,0,1,1,1,0,2,2,0,2,1,1,0,1,1
+5902,Marton Fucsovics,27,Hungary,Right-handed,Two-handed,2009,2565227,1,0,1,0,0,0,2,1,1,0,2,0,0,0,2,0,0,0,1
+6051,Marco Cecchinato,27,Italy,Right-handed,One-handed,2010,2802848,3,1,0,1,0,0,2,3,1,2,2,1,1,0,2,1,4,1,1
+44483,Mikael Ymer,21,Sweden,Right-handed,Two-handed,2015,379322,0,1,0,0,0,1,1,2,1,0,0,2,0,0,1,0,2,2,0
+4311,Andreas Seppi,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1,0,2,2,0,0,2,0,3,0,1
+6184,Hugo Dellien,26,"Bolivia, Plurinational State of",Right-handed,Two-handed,2009,397175,0,0,0,0,0,0,1,1,1,2,2,1,0,2,0,1,1,1,0
+11769,Nicolas Jarry,0,0,0,0,0,0,0,0,1,1,1,0,0,3,0,0,2,2,0,2,2,0,0,0,2
+5630,Federico Delbonis,29,Argentina,Left-handed,Two-handed,2007,3611278,2,0,0,0,0,1,2,1,1,0,2,2,0,0,2,0,4,0,1
+6020,Yasutaka Uchiyama,27,Japan,Right-handed,Two-handed,0,634476,0,1,0,1,1,0,0,3,1,2,0,2,0,0,1,0,2,2,1
+4259,Philipp Kohlschreiber,36,Germany,Right-handed,One-handed,2001,12762058,8,0,1,0,1,0,0,1,0,0,0,0,0,2,2,0,3,0,1
+6134,Roberto Carballes Baena,26,Spain,Right-handed,Two-handed,2011,1575907,1,0,0,1,0,1,2,1,1,0,0,2,0,2,2,0,0,0,0
+44670,Corentin Moutet,20,France,Left-handed,Two-handed,2016,650074,0,1,1,0,0,1,1,1,2,0,1,1,1,2,2,1,1,1,0
+6282,Gregoire Barrere,25,France,Right-handed,Two-handed,2012,584781,0,1,0,0,0,1,1,1,2,0,1,1,1,2,1,1,2,2,0
+36223,Dominik Koepfer,0,0,0,0,0,0,0,1,1,1,0,0,2,3,0,2,1,1,1,2,1,1,1,2,1
+5438,Steve Johnson,29,United States,Right-handed,Two-handed,2012,5516519,4,0,1,0,1,0,0,3,0,2,2,2,0,0,2,0,0,0,1
+26755,Soon Woo Kwon,21,"Korea, Republic of",Right-handed,Two-handed,0,351464,0,1,0,1,0,1,2,1,1,2,1,2,1,1,1,1,2,1,0
+5868,Stefano Travaglia,27,Italy,0,Two-handed,2011,559197,0,1,0,1,1,0,0,3,1,0,1,2,1,0,0,0,2,1,2
+6315,Thiago Monteiro,25,Brazil,Left-handed,Two-handed,2011,1130183,0,1,0,1,0,0,2,3,1,0,2,1,1,2,2,1,2,1,1
+11766,Kamil Majchrzak,23,Poland,Right-handed,Two-handed,2014,398255,0,1,0,0,0,1,2,3,1,2,2,1,1,2,0,1,1,2,0
+26009,Tommy Paul,22,United States,Right-handed,Two-handed,2015,627160,0,0,0,1,0,0,2,3,1,2,2,2,0,0,1,1,1,1,0
+4728,Kevin Anderson,33,South Africa,Right-handed,Two-handed,2007,16293854,6,0,1,0,2,0,0,3,0,2,2,0,0,2,0,0,3,0,1
+4914,Leonardo Mayer,32,Argentina,Right-handed,One-handed,2003,6492427,2,0,1,0,1,1,0,3,0,2,2,2,0,2,2,0,0,0,1
+11762,Brayden Schnur,24,Canada,Right-handed,Two-handed,2016,414637,0,1,0,1,1,1,2,0,0,2,2,1,1,0,2,1,0,2,0
+5422,Prajnesh Gunneswaran,29,India,Left-handed,Two-handed,0,628514,0,1,0,0,0,1,2,0,2,2,0,1,1,2,0,1,1,2,1
+50813,Jannik Sinner,0,0,0,0,0,0,0,0,0,1,0,0,2,1,2,2,0,2,0,1,1,1,4,1,1
+45439,Alexei Popyrin,20,Australia,0,Two-handed,2017,612916,0,1,0,1,1,1,0,0,0,2,2,1,1,2,1,1,1,1,1
+6085,Salvatore Caruso,26,Italy,Right-handed,Two-handed,2011,404813,0,1,0,1,0,0,1,2,1,0,2,2,1,2,1,1,4,1,1
+44495,Jaume Munar,22,Spain,0,Two-handed,2014,1037912,0,0,0,0,0,0,2,1,1,2,2,2,1,2,2,1,1,0,1
+44526,Lloyd George Muirhead Harris,22,South Africa,Right-handed,Two-handed,2015,562269,0,1,0,0,1,0,2,1,1,0,0,2,0,0,2,0,4,1,0
+6064,Egor Gerasimov,26,Belarus,Right-handed,Two-handed,2010,360093,0,0,0,0,1,1,0,1,1,2,2,0,0,2,1,0,1,1,1
+4606,Tomas Berdych,34,Czech Republic,Right-handed,Two-handed,2002,29491328,13,0,1,0,1,0,0,1,0,0,0,0,0,2,0,2,3,0,2
+5953,Henri Laaksonen,27,Switzerland,Right-handed,Two-handed,2009,946192,0,0,0,0,0,1,2,1,1,0,2,2,0,0,1,0,4,1,0
+5986,Damir Dzumhur,27,Bosnia and Herzegovina,Right-handed,Two-handed,2011,3869834,3,0,1,0,0,0,1,2,1,0,2,2,0,0,2,0,0,0,1
+6196,Jiri Vesely,26,Czech Republic,Left-handed,Two-handed,2009,3676231,1,0,1,0,1,1,0,3,0,2,2,2,0,0,2,0,4,0,2
+5602,Bradley Klahn,29,United States,Left-handed,Two-handed,2012,1176787,0,1,0,0,1,1,2,0,1,2,2,1,1,2,2,1,2,2,0
+3333,Ivo Karlovic,40,Croatia,Right-handed,One-handed,2000,9810596,8,0,1,0,2,1,0,0,0,2,2,2,0,2,2,0,0,0,2
+5209,Yuichi Sugita,31,Japan,Right-handed,Two-handed,0,1843740,1,1,1,0,0,0,2,3,1,2,2,2,0,0,2,1,4,1,1
+5528,Evgeny Donskoy,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,2,2,1,1,0,2,1,1,1,0
+5601,Norbert Gombos,29,Slovakia,Right-handed,Two-handed,0,774886,0,1,0,0,0,1,2,3,0,2,2,1,1,0,2,1,2,2,0
+5888,James Duckworth,27,Australia,Right-handed,Two-handed,2010,1398973,0,0,0,0,1,0,2,0,0,2,1,1,1,0,1,1,1,1,0
+6107,Taro Daniel,26,Japan,Right-handed,Two-handed,0,1626003,1,1,0,0,0,0,1,1,1,0,2,1,1,2,0,1,0,1,0
+4716,Marcel Granollers,33,Spain,Right-handed,Two-handed,2003,10759457,4,0,1,0,0,0,2,1,1,0,0,2,0,0,2,1,0,0,1
+5403,Andrej Martin,30,Slovakia,Right-handed,Two-handed,2005,666041,0,1,0,1,0,0,1,2,1,0,0,2,0,0,1,0,3,0,1
+6031,Denis Kudla,27,United States,Right-handed,Two-handed,2010,2940388,0,1,1,0,1,1,2,3,1,0,2,1,0,0,2,1,1,1,0
+5333,Thomas Fabbiano,30,Italy,Right-handed,Two-handed,2005,1805758,0,1,1,0,0,1,1,1,1,2,2,1,1,0,2,1,1,1,1
+20265,Yannick Maden,30,Germany,0,Two-handed,2013,551700,0,1,0,1,0,0,1,1,1,0,2,1,1,0,1,1,2,1,0
+3893,Paolo Lorenzi,0,0,0,0,0,0,0,1,0,0,0,0,2,3,1,2,2,1,1,0,0,1,0,1,0
+25953,Gianluca Mager,24,Italy,Right-handed,Two-handed,0,200642,0,1,0,1,1,0,2,1,2,0,0,2,1,2,1,0,2,2,0
+4423,Go Soeda,35,Japan,Right-handed,Two-handed,0,1892729,0,1,0,0,0,0,2,3,2,2,0,1,0,0,0,1,4,1,0
+5216,Juan Martin Del Potro,31,Argentina,Right-handed,Two-handed,2005,25889586,22,0,1,0,1,0,0,1,0,0,0,0,0,2,0,2,3,0,2
+5367,Peter Gojowczyk,30,Germany,Right-handed,Two-handed,2006,2538046,1,0,1,0,1,1,2,3,1,0,0,2,0,0,1,1,4,1,1
+11174,Elias Ymer,23,Sweden,Right-handed,Two-handed,2014,914476,0,1,0,0,0,0,2,3,1,2,2,1,1,0,0,1,2,2,0
+6204,Marcos Giron,26,United States,Right-handed,Two-handed,2014,292168,0,1,0,1,0,1,2,0,0,2,2,1,1,2,1,1,2,2,0
+25960,Antonie Hoang,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,1,2,1,1,1,1,0
+10580,Dennis Novak,26,Austria,Right-handed,Two-handed,2011,709278,0,1,1,0,0,1,2,1,1,0,1,2,0,0,0,1,1,1,1
+4913,Andy Murray,32,United Kingdom,Right-handed,Two-handed,2005,61259702,46,0,1,0,1,0,0,2,0,0,2,0,0,2,0,2,3,0,2
+5140,Tatsuma Ito,0,0,0,0,0,0,0,1,1,0,0,0,2,3,2,2,0,1,0,2,0,1,2,1,1
+11548,Sumit Nagal,22,India,Right-handed,Two-handed,0,216435,0,1,0,1,0,1,1,1,2,2,0,1,1,1,2,1,2,2,0
+5351,Jason Jung,30,"Taiwan, Province of China",Right-handed,Two-handed,0,458991,0,1,0,1,0,1,2,3,0,2,2,1,1,1,0,1,2,2,0
+11176,Hyeon Chung,23,"Korea, Republic of",Right-handed,Two-handed,2014,3566408,0,0,1,0,0,0,2,1,1,0,0,0,0,0,2,0,1,0,1
+17203,Marc Polmans,22,Australia,0,Two-handed,0,507297,0,1,0,1,0,1,1,1,1,2,1,1,1,2,0,1,1,2,0
+11429,Mackenzie Mcdonald,24,United States,Right-handed,Two-handed,2016,1210098,0,0,1,1,0,0,2,3,1,0,2,1,1,2,1,1,1,1,1
+5805,Guido Andreozzi,28,Argentina,Right-handed,Two-handed,2008,974869,0,1,0,0,0,1,2,3,1,2,2,1,1,0,2,1,2,1,0
+5219,Attila Balazs,31,Hungary,Right-handed,Two-handed,0,444731,0,1,0,0,0,1,2,3,0,2,2,0,0,2,1,1,4,2,0
+5717,Steven Diez,0,0,0,0,0,0,0,1,0,1,0,1,1,1,2,2,0,1,1,1,0,1,2,2,0
+5148,Pedro Sousa,0,0,0,0,0,0,0,1,0,0,0,1,1,2,2,0,0,2,0,0,0,1,2,2,0
+5476,Facundo Bagnis,29,Argentina,Left-handed,Two-handed,2007,1297523,0,1,0,0,0,1,2,3,1,2,0,1,1,0,0,1,2,1,0
+5629,Blaz Rola,0,0,0,0,0,0,0,1,0,1,0,1,2,3,1,2,2,2,0,0,2,1,1,1,0
+6317,Christopher Oconnell,0,0,0,0,0,0,0,1,0,1,0,0,2,0,0,1,1,1,1,2,0,1,2,2,0
+11164,Zhizhen Zhang,23,China,0,Two-handed,2012,188501,0,1,0,0,1,0,0,3,0,2,2,2,0,2,1,0,2,2,1
+5364,Martin Klizan,30,Slovakia,Left-handed,Two-handed,2007,4810128,6,0,1,0,0,1,2,1,1,0,2,2,0,2,2,0,0,0,1
+25609,Ilya Ivashka,0,0,0,0,0,0,0,1,1,0,1,1,2,1,1,2,2,2,1,2,1,0,4,2,0
+4533,Dudi Sela,34,Israel,Right-handed,One-handed,2002,3869762,0,0,1,0,0,0,2,1,1,0,0,2,0,2,2,1,1,0,1
+4198,Guillermo Garcia Lopez,36,Spain,Right-handed,One-handed,2002,8003533,5,0,1,0,0,1,2,1,1,0,2,2,0,0,2,0,0,0,1
+22510,Juan Pablo Varillas Patino Samudio,24,Peru,Right-handed,Two-handed,0,77631,0,1,0,1,1,1,0,0,1,1,1,1,1,0,0,1,2,2,0
+45150,Emil Ruusuvuori,20,Finland,Right-handed,Two-handed,0,7933,0,1,0,1,0,1,1,2,2,0,0,2,0,2,1,1,2,2,0
+5863,Emilio Gomez,27,Ecuador,Right-handed,Two-handed,0,272511,0,1,0,1,0,0,0,1,0,0,1,0,0,2,0,2,2,2,0
+4659,Sergiy Stakhovsky,33,Ukraine,Right-handed,One-handed,2003,5325081,4,0,1,0,1,0,2,3,1,2,2,2,0,2,2,1,0,1,1
+5550,Alessandro Giannessi,29,Italy,Left-handed,Two-handed,2008,656762,0,1,0,0,0,1,1,1,0,2,1,1,1,0,1,1,4,1,0
+10726,Nikola Milojevic,0,0,0,0,0,0,0,1,0,1,0,1,1,2,2,0,0,2,0,1,0,0,2,2,0
+5565,Vasek Pospisil,29,Canada,Right-handed,Two-handed,2007,5287905,0,0,0,0,1,1,0,3,0,2,2,2,0,0,2,1,4,1,1
+5929,Federico Gaio,0,0,0,0,0,0,0,1,0,1,0,1,2,0,0,2,2,1,1,0,0,1,2,2,0
+5644,Marius Copil,29,Romania,Right-handed,One-handed,2008,1910926,0,1,1,0,1,0,0,0,0,2,2,2,0,2,1,1,0,1,1
+4585,Lukas Rosol,0,0,0,0,0,0,0,0,1,0,1,0,2,3,0,2,2,2,0,2,2,1,0,0,1
+4326,Steve Darcis,0,0,0,0,0,0,0,0,1,0,0,0,2,3,1,0,0,2,0,2,2,1,0,1,1
+6279,Kimmer Coppejans,25,Belgium,Right-handed,Two-handed,0,409346,0,1,0,1,0,1,1,3,2,2,2,1,1,1,0,1,2,2,0
+4677,Viktor Troicki,33,Serbia,Right-handed,Two-handed,2006,8628325,3,0,1,0,1,0,2,1,1,0,0,2,0,2,2,0,3,0,1
+6095,Alex Bolt,0,0,0,0,0,0,0,1,0,1,1,0,2,3,1,2,1,1,1,2,2,1,2,2,0
+4894,Robin Haase,0,0,0,0,0,0,0,0,1,0,1,0,2,1,1,0,2,2,0,0,2,0,4,0,1
+6200,Oscar Otte,26,Germany,Right-handed,0,2011,446804,0,1,0,1,1,1,0,0,1,2,2,2,1,1,1,0,2,2,0
+45308,Rudolf Molleker,19,Germany,Right-handed,Two-handed,2017,322818,0,1,0,1,1,1,2,0,1,2,2,1,1,0,1,1,2,2,0
+5971,Darian King,27,Barbados,Right-handed,Two-handed,2010,598274,0,1,0,1,0,0,1,2,1,0,0,0,0,2,2,0,2,2,0
+23950,Sebastian Ofner,23,Austria,Right-handed,Two-handed,2015,334529,0,1,1,0,1,1,2,3,0,2,0,2,0,2,1,1,3,1,1
+5636,Cedrik Marcel Stebe,29,Germany,Left-handed,Two-handed,2010,1033925,0,0,0,1,0,0,1,1,2,0,0,1,1,2,1,1,0,1,0
+11426,Mikael Torpegaard,25,Denmark,Right-handed,Two-handed,2019,72127,0,1,0,0,1,1,2,3,2,2,1,1,1,2,0,1,2,2,0
+4570,Marcos Baghdatis,34,Cyprus,Right-handed,Two-handed,2003,8918917,4,0,1,0,1,0,0,1,1,0,2,0,0,2,2,0,3,0,1
+5856,Yannick Hanfmann,27,Germany,0,Two-handed,2015,484561,0,1,1,1,0,0,2,3,0,2,2,2,1,0,1,1,0,2,0
+6096,Filip Horansky,26,Slovakia,Right-handed,Two-handed,0,143530,0,1,0,1,0,0,1,1,2,0,0,1,1,1,0,1,2,2,0
+6061,Jozef Kovalik,27,Slovakia,Right-handed,Two-handed,0,770744,0,0,0,1,0,0,2,3,1,0,2,1,1,0,1,1,4,1,1
+6379,Frederico Ferreira Silva,0,0,0,0,0,0,0,1,0,1,0,0,1,2,2,0,0,2,0,1,2,0,2,2,0
+4794,Denis Istomin,33,Uzbekistan,Right-handed,Two-handed,2004,5965778,2,0,1,0,1,0,0,3,0,2,2,2,0,2,2,0,0,1,1
+34653,Tallon Griekspoor,23,Netherlands,Right-handed,Two-handed,0,301531,0,1,0,1,0,0,1,0,2,0,0,1,0,1,1,1,2,2,1
+6202,Bjorn Fratangelo,0,0,0,0,0,0,0,0,1,1,0,1,2,3,1,0,2,1,1,2,1,1,4,1,0
+5034,Lukas Lacko,32,Slovakia,Right-handed,Two-handed,2005,3261567,0,1,1,0,1,0,2,3,1,2,2,1,0,2,2,1,0,1,0
+5159,Peter Polansky,31,Canada,Right-handed,Two-handed,2007,1447596,0,1,0,1,0,0,2,3,1,2,2,1,1,0,0,1,2,2,0
+11433,Quentin Halys,23,France,Right-handed,Two-handed,2012,778004,0,1,0,1,1,1,2,3,0,2,1,1,1,0,0,1,2,2,0
+6057,Bernard Tomic,27,Australia,Right-handed,Two-handed,2008,5950393,4,0,1,0,1,0,0,3,0,2,2,2,0,2,2,0,0,0,1
+21919,Dmitry Popko,23,Kazakhstan,Right-handed,Two-handed,0,197321,0,1,0,0,0,0,2,0,0,2,1,1,0,2,0,1,2,2,0
+6235,Joao Domingues,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2,0,2,0,2,1,1,2,2,1
+23589,Daniel Elahi Galan Riveros,23,Colombia,0,Two-handed,0,184282,0,1,0,1,0,0,0,1,1,0,0,0,0,2,1,0,4,1,1
+4807,Zhe Li,33,China,Right-handed,Two-handed,2004,544642,0,1,0,0,0,0,1,0,2,2,0,1,1,2,0,1,2,2,0
+3917,Nicolas Mahut,0,0,0,0,0,0,0,0,1,0,1,1,0,3,0,2,2,2,0,0,2,0,0,1,1
+6269,Mitchell Krueger,0,0,0,0,0,0,0,1,0,1,0,0,1,3,2,2,0,1,1,0,0,1,2,2,0
+6058,Alexey Vatutin,27,Russian Federation,0,Two-handed,0,310368,0,1,0,1,0,1,1,2,2,0,1,1,1,2,1,1,2,2,1
+4893,Matthias Bachinger,0,0,0,0,0,0,0,1,0,1,1,0,2,3,1,2,2,2,1,0,1,1,4,1,0
+6354,Ramkumar Ramanathan,0,0,0,0,0,0,0,1,1,1,1,1,0,3,1,2,2,2,0,0,1,1,0,1,1
+6409,Thanasi Kokkinakis,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0,2,2,1,1,2,1,1,0,1,2

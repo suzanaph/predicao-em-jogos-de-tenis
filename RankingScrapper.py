@@ -6,11 +6,10 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 import datetime
-#import pandas as pd
 import Util
 
 
-def getMaleRanking(limit):
+def     (limit):
 
     driver = webdriver.Chrome(ChromeDriverManager().install())
     driver.get('https://www.ultimatetennisstatistics.com/rankingsTable')
